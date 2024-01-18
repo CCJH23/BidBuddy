@@ -2,6 +2,9 @@
 
 BidBuddy is a marketplace where buyers and sellers can buy and sell items with an integrated bidding system.
 
+## Demo Video
+![Demo Video](https://github.com/CCJH23/BidBuddy/blob/54acdbd0bcaca938865e5a86e91f800846ffcad8/BidBuddyDemo.mp4)
+
 ## Requirment
 
 - Node 18.15.0
